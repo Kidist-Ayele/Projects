@@ -1,0 +1,40 @@
+h1{ text-align: center;
+    color: blue;
+    font-family:"courier New";
+  }
+  body { 
+    background-color: OldLace;
+  }
+  .top {
+    border-top-style: solid ;
+    border-bottom-style:solid ;
+    border-color: Orchid ;
+    border-width:1px;
+    text-align:center;
+    
+  }
+  .firstp {
+    font-family: cursive ;
+    font-size:25px;
+  }
+  #top2 {
+    color: Indigo;
+    font-family: monospace;
+    font-size:30px;
+  }
+  .myul {
+    font-size:25px;
+      
+  }
+  .tdiv {
+    background-color:Aquamarine ;
+   
+  }
+  #tabtit {
+    color:FireBrick;
+    font-family:monospace;
+    font-size:22px
+  }
+  .funol { color:#ff8000;
+    
+  }
